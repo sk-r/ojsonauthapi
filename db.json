@@ -1,0 +1,9 @@
+{
+"oauth":{"token":"ghtyheujfYUj78639Gth32847sjkshHYGT489msgsinslHDHnDlUdhnldi"},
+"authenticate":{
+	"accesskey": "ghtyheujfYUj78639Gth32847sjkshHYGT489msgsinslHDHnDlUdhnldi",
+	"accesstoken": "hsdi233dKHDujdYhdlOdmlqu2367siduUdnDlie79240NDlmfadmlUnadI",
+	"scopes":["SCOPE_USER","READ_USER","WRITE_USER","UPDATE_USER"],
+	"roles":["ROLE_USER_ADMIN"]
+}
+}
